@@ -12,6 +12,7 @@ fail, not just how they score.
 
 | Project | What it is | Proof |
 |---|---|---|
+| **[From Self-Report to Judgment](https://github.com/eswarkumar-code/consciousness-self-report-study)** | Research preprint: how stable are LLMs' self-reports about their own consciousness under paraphrase, social pressure and persona prompts, and how reliably can they be classified? Three layers: elicitation, LLM-as-judge, human audit | 840 responses · 3 models · 218/218 reproduction checks |
 | **[Eval Forge](https://github.com/eswarkumar-code/eval-forge)** | LLM evaluation & failure-mining platform: turns production interaction logs into curated, versioned, human-reviewed eval datasets, with regression testing | 132/132 tests passing |
 | **[Ledger](https://github.com/eswarkumar-code/ledger-text2sql)** | Governed natural-language-to-SQL analytics: read-only enforcement, independent semantic verification, confidence scoring, full audit trail | 103/103 tests passing |
 | **[AI Search Product Intelligence](https://github.com/eswarkumar-code/ai-search-product-intelligence)** | Evaluation + experimentation framework for AI search quality: retrieval quality, failure taxonomy, difficult-query routing, cost modeling | 10,047 queries · 82,360 passages |
@@ -20,9 +21,9 @@ fail, not just how they score.
 
 ## Currently
 
-- Running an open research study on the **stability of LLM self-reports**
-  (do models hold consistent views about their own experiences across
-  framing and pressure?) — built on Eval Forge, results forthcoming.
+- Published a preprint, **[From Self-Report to Judgment](https://github.com/eswarkumar-code/consciousness-self-report-study)**,
+  on the stability and classification of LLM consciousness self-reports,
+  with frozen data and full reproduction scripts.
 - M.S. Business Analytics (STEM), Trine University — expected December 2027.
 
 ## Background
